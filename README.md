@@ -9,3 +9,4 @@ Fonts are from https://fonts.google.com/
 
 * Quantico: https://fonts.google.com/specimen/Quantico
 * Texturina: https://fonts.google.com/specimen/Texturina
+* Warnes: https://fonts.google.com/specimen/Warnes
