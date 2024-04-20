@@ -9,6 +9,10 @@ Firmware: https://github.com/judge2005/EleksTubeIPS
 # Font sources
 Fonts are from https://fonts.google.com/
 
+Selfmade:
 * Quantico: https://fonts.google.com/specimen/Quantico
 * Texturina: https://fonts.google.com/specimen/Texturina
 * Warnes: https://fonts.google.com/specimen/Warnes
+
+Better Defaults
+* Bebas (AM/PM Flip Clock): https://fonts.google.com/specimen/Bebas
