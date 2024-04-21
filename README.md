@@ -10,7 +10,7 @@ Firmware: https://github.com/judge2005/EleksTubeIPS
 Fonts are from https://fonts.google.com/
 
 ## Better Defaults
-* Bebas (AM/PM Flip Clock): https://fonts.google.com/specimen/Bebas
+* Bebas Neue (AM/PM Flip Clock): https://fonts.google.com/specimen/Bebas+Neue
 
 ## Selfmade Faces
 * Code Mono (Ice): https://fonts.google.com/specimen/Kode+Mono
