@@ -36,6 +36,6 @@ Ice [(Code Mono)](https://fonts.google.com/specimen/Kode+Mono) |
 ![Ice](Selfmade_Faces/Ice/8.bmp) |
 
 # Simple Font Faces
-[Quantico](https://fonts.google.com/specimen/Quantico) | [Texturina](https://fonts.google.com/specimen/Texturina) | [Warnes]https://fonts.google.com/specimen/Warnes
+[Quantico](https://fonts.google.com/specimen/Quantico) | [Texturina](https://fonts.google.com/specimen/Texturina) | [Warnes](https://fonts.google.com/specimen/Warnes)
 -------- | -------- | --------
 ![Quantico](Simple_Font_Faces/Quantico/Quantico_white/crop/8.bmp) | ![Texturina](Simple_Font_Faces/Texturina/Texturina_white/crop/8.bmp) | ![Warnes](Simple_Font_Faces/Warnes/Warnes_white/crop/8.bmp)
