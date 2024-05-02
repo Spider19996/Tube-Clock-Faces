@@ -9,6 +9,7 @@ Firmware: https://github.com/judge2005/EleksTubeIPS
 # Better Defaults
 
 ![dots_yellow](Better_Defaults/dots_yellow/8.bmp) | ![flip_clock](Better_Defaults/flip_clock/8.bmp) | ![lego](Better_Defaults/lego/8.bmp)
+-------- | -------- | --------
 dots_yellow | flip_clock | lego
 Inhalt   | Inhalt   | Inhalt
 
