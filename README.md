@@ -6,23 +6,13 @@ The folder "Better_Defaults" contains improved versions of the standard watch fa
 
 Firmware: https://github.com/judge2005/EleksTubeIPS
 
-Spalte 1 | Spalte 2 | Spalte 3
--------- | -------- | --------
-Inhalt   | Inhalt   | Inhalt
-Inhalt   | Inhalt   | Inhalt
-
 # Better Defaults
-![dots_yellow](Better_Defaults/dots_yellow/8.bmp)
 
-dots_yellow
+![dots_yellow](Better_Defaults/dots_yellow/8.bmp) | ![flip_clock](Better_Defaults/flip_clock/8.bmp) | ![lego](Better_Defaults/lego/8.bmp)
+dots_yellow | flip_clock | lego
+Inhalt   | Inhalt   | Inhalt
 
-![Captive Portal](Better_Defaults/flip_clock/8.bmp)
 
-flip_clock
-
-![Captive Portal](Better_Defaults/lego/8.bmp)
-
-lego
 
 ![Captive Portal](Better_Defaults/original/8.bmp)
 
