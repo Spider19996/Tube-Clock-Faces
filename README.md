@@ -2,11 +2,10 @@
 
 Files "ready to use" for the firmware of judge2005 can be found in the respective font folder. Simply download the *.tar.gz and upload it in the web interface of the clock. All files have been tested with a NovelLife watch.
 
-The folder "Better_Defaults" contains improved versions of the standard watch faces which are supplied with the judge2005 firmware. In most cases am/pm/colon/space images have been added and the watch face has been cleaned up. The clock faces have also been added to the firmware and will be included as default in the next release. Currently, these still have to be replaced manually.
-
 Firmware: https://github.com/judge2005/EleksTubeIPS
 
 # Better Defaults
+Improved versions of the default watch faces which are supplied with the judge2005 firmware. In most cases am/pm/colon/space images have been added and the watch face has been cleaned up. The clock faces have also been added to the firmware and will be included as default in the next release. Currently, these still have to be replaced manually.
 
 dots_yellow | flip_clock | lego | original
 -------- | -------- | -------- | --------
@@ -35,9 +34,10 @@ Ice |
 ![Ice](Selfmade_Faces/Ice/8.bmp) |
 
 # Simple Font Faces
-Quantico | Texturina | Warnes
+[Quantico](https://fonts.google.com/specimen/Texturina) | Texturina | Warnes
 -------- | -------- | --------
 ![Quantico](Simple_Font_Faces/Quantico/Quantico_white/crop/8.bmp) | ![Texturina](Simple_Font_Faces/Texturina/Texturina_white/crop/8.bmp) | ![Warnes](Simple_Font_Faces/Warnes/Warnes_white/crop/8.bmp)
+https://fonts.google.com/specimen/Quantico | https://fonts.google.com/specimen/Texturina |
 
 
 
