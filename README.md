@@ -14,14 +14,18 @@ dots_yellow | flip_clock | lego | original
 ribbon_blue | rounded_pink | seven_segment_red |
 ![ribbon_blue](Better_Defaults/ribbon_blue/8.bmp) | ![rounded_pink](Better_Defaults/rounded_pink/crop/8.bmp) | ![Captive Portal](Better_Defaults/seven_segment_red/crop/8.bmp) |
 
+# Segmented_Style_Faces
 
+# Selfmade_Faces
 
+Ice |
+-------- |
+![Ice](Selfmade_Faces/Ice/8.bmp) |
 
-
-
-
-
-
+# Simple_Font_Faces
+Quantico | Texturina | Warnes
+-------- | -------- | --------
+![Quantico](Simple_Font_Faces/Quantico/Quantico_white/8.bmp) | ![Texturina](Simple_Font_Faces/Texturina/8.bmp) | ![Warnes](Simple_Font_Faces/Warnes/8.bmp)
 
 
 
