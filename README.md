@@ -6,6 +6,11 @@ The folder "Better_Defaults" contains improved versions of the standard watch fa
 
 Firmware: https://github.com/judge2005/EleksTubeIPS
 
+Spalte 1 | Spalte 2 | Spalte 3
+-------- | -------- | --------
+Inhalt   | Inhalt   | Inhalt
+Inhalt   | Inhalt   | Inhalt
+
 # Better Defaults
 ![dots_yellow](Better_Defaults/dots_yellow/8.bmp)
 
