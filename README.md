@@ -22,4 +22,5 @@ Fonts are from https://fonts.google.com/
 
 ## Segment Style Faces (WIP)
 Ideas from http://www.michieldb.nl/other/segments/
+
 Big thanks!
