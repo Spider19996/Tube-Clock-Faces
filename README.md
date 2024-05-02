@@ -20,5 +20,6 @@ Fonts are from https://fonts.google.com/
 * Texturina: https://fonts.google.com/specimen/Texturina
 * Warnes: https://fonts.google.com/specimen/Warnes
 
-## Segment Style Faces
-Upcoming projects: http://www.michieldb.nl/other/segments/
+## Segment Style Faces (WIP)
+Ideas from http://www.michieldb.nl/other/segments/
+Big thanks!
