@@ -24,7 +24,7 @@ Double_Bubble | Half_Bubble_17 | No_Compromise | Seamless_Regular | Seamless_Rou
 Seamless_Tangram | Solid_11 | Sports | Sports_9 | Ugly
 ![Seamless_Tangram](Segment_Style_Faces/Seamless_Tangram/white/8.bmp) | ![Solid_11](Segment_Style_Faces/Solid_11/white/8.bmp) | ![Sports](Segment_Style_Faces/Sports/white/8.bmp) | ![Sports_9](Segment_Style_Faces/Sports_9/white/8.bmp) | ![Ugly](Segment_Style_Faces/Ugly/white/8.bmp) 
 Verticals_Priority_Asym | Verticals_Priority_Sym | X_13 | X_Light_15
-![Verticals_Priority_Asym](Segment_Style_Faces/Verticals_Priority_Asym/white/8.bmp) | ![Verticals_Priority_Sym](Segment_Style_Faces/Verticals_Priority_Sym/white/8.bmp) | ![X_13](Segment_Style_Faces/X_13/white/8.bmp) | ![X_Light_15](Segment_Style_Faces/X_Light_15/white/8.bmp) | ![X_Light_15](Segment_Style_Faces/X_Light_15/white/8.bmp) 
+![Verticals_Priority_Asym](Segment_Style_Faces/Verticals_Priority_Asym/white/8.bmp) | ![Verticals_Priority_Sym](Segment_Style_Faces/Verticals_Priority_Sym/white/8.bmp) | ![X_13](Segment_Style_Faces/X_13/white/8.bmp) | ![X_Light_15](Segment_Style_Faces/X_Light_15/white/8.bmp) | 
 
 
 # Selfmade Faces
