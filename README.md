@@ -31,7 +31,7 @@ Verticals_Priority_Asym | Verticals_Priority_Sym | X_13 | X_Light_15
 
 # Selfmade Faces
 
-Ice / ((Code Mono))[https://fonts.google.com/specimen/Kode+Mono] |
+Ice [(Code Mono)](https://fonts.google.com/specimen/Kode+Mono) |
 -------- |
 ![Ice](Selfmade_Faces/Ice/8.bmp) |
 
