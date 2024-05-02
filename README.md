@@ -18,7 +18,7 @@ ribbon_blue | rounded_pink | seven_segment_red |
 ## Segmented Style Faces (WIP)
 Ideas from [michieldb.nl](http://www.michieldb.nl/other/segments/) - Big thanks!
 
-Some watch faces are also available in other colors.
+Some watch faces are also available in other colors. Where no images are displayed are not yet finished.
 
 14 | 3x5_Matrix_1 | 3x5_Matrix_2 | 9 | Classic
 -------- | -------- | -------- | -------- | --------
