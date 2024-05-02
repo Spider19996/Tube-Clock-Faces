@@ -9,7 +9,7 @@ Firmware: https://github.com/judge2005/EleksTubeIPS
 # Better Defaults
 
 dots_yellow | flip_clock | lego | original
--------- | -------- | --------
+-------- | -------- | -------- | --------
 ![dots_yellow](Better_Defaults/dots_yellow/crop/8.bmp) | ![flip_clock](Better_Defaults/flip_clock/8.bmp) | ![lego](Better_Defaults/lego/8.bmp) | ![original](Better_Defaults/original/8.bmp) |
 ribbon_blue | rounded_pink | seven_segment_red |
 ![ribbon_blue](Better_Defaults/ribbon_blue/8.bmp) | ![rounded_pink](Better_Defaults/rounded_pink/crop/8.bmp) | ![Captive Portal](Better_Defaults/seven_segment_red/crop/8.bmp) |
