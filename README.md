@@ -14,15 +14,26 @@ dots_yellow | flip_clock | lego | original
 ribbon_blue | rounded_pink | seven_segment_red |
 ![ribbon_blue](Better_Defaults/ribbon_blue/8.bmp) | ![rounded_pink](Better_Defaults/rounded_pink/crop/8.bmp) | ![Captive Portal](Better_Defaults/seven_segment_red/crop/8.bmp) |
 
-# Segmented_Style_Faces
+# Segmented_Style_Faces (WIP)
 
-# Selfmade_Faces
+14 | 3x5_Matrix_1 | 3x5_Matrix_2 | 9 | Classic
+-------- | -------- | -------- | --------
+![14](Segment_Style_Faces/14/white/8.bmp) | ![3x5_Matrix_1](Segment_Style_Faces/3x5_Matrix_1/white/8.bmp) | ![3x5_Matrix_2](Segment_Style_Faces/3x5_Matrix_2/white/8.bmp) | ![9](Segment_Style_Faces/9/white/8.bmp) | ![classic](Segment_Style_Faces/Classic/white/8.bmp) 
+Double_Bubble | Half_Bubble_17 | No_Compromise | Seamless_Regular | Seamless_Round
+![Double_Bubble](Segment_Style_Faces/Double_Bubble/white/8.bmp) | ![Half_Bubble_17](Segment_Style_Faces/Half_Bubble_17/white/8.bmp) | ![No_Compromise](Segment_Style_Faces/No_Compromise/white/8.bmp) | ![Seamless_Regular](Segment_Style_Faces/Seamless_Regular/white/8.bmp) | ![Seamless_Round](Segment_Style_Faces/Seamless_Round/white/8.bmp) 
+Seamless_Tangram | Solid_11 | Sports | Sports_9 | Ugly
+![Seamless_Tangram](Segment_Style_Faces/Seamless_Tangram/white/8.bmp) | ![Solid_11](Segment_Style_Faces/Solid_11/white/8.bmp) | ![Sports](Segment_Style_Faces/Sports/white/8.bmp) | ![Sports_9](Segment_Style_Faces/Sports_9/white/8.bmp) | ![Ugly](Segment_Style_Faces/Ugly/white/8.bmp) 
+Verticals_Priority_Asym | Verticals_Priority_Sym | X_13 | X_Light_15
+![Verticals_Priority_Asym](Segment_Style_Faces/Verticals_Priority_Asym/white/8.bmp) | ![Verticals_Priority_Sym](Segment_Style_Faces/Verticals_Priority_Sym/white/8.bmp) | ![X_13](Segment_Style_Faces/X_13/white/8.bmp) | ![X_Light_15](Segment_Style_Faces/X_Light_15/white/8.bmp) | ![X_Light_15](Segment_Style_Faces/X_Light_15/white/8.bmp) 
+
+
+# Selfmade Faces
 
 Ice |
 -------- |
 ![Ice](Selfmade_Faces/Ice/8.bmp) |
 
-# Simple_Font_Faces
+# Simple Font Faces
 Quantico | Texturina | Warnes
 -------- | -------- | --------
 ![Quantico](Simple_Font_Faces/Quantico/Quantico_white/crop/8.bmp) | ![Texturina](Simple_Font_Faces/Texturina/Texturina_white/crop/8.bmp) | ![Warnes](Simple_Font_Faces/Warnes/Warnes_white/crop/8.bmp)
@@ -45,7 +56,7 @@ Fonts are from https://fonts.google.com/
 * Texturina: https://fonts.google.com/specimen/Texturina
 * Warnes: https://fonts.google.com/specimen/Warnes
 
-## Segment Style Faces (WIP)
+## Segment Style Faces
 Ideas from http://www.michieldb.nl/other/segments/
 
 Big thanks!
