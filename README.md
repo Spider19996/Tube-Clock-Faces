@@ -17,7 +17,7 @@ ribbon_blue | rounded_pink | seven_segment_red |
 # Segmented_Style_Faces (WIP)
 
 14 | 3x5_Matrix_1 | 3x5_Matrix_2 | 9 | Classic
--------- | -------- | -------- | --------
+-------- | -------- | -------- | -------- | --------
 ![14](Segment_Style_Faces/14/white/8.bmp) | ![3x5_Matrix_1](Segment_Style_Faces/3x5_Matrix_1/white/8.bmp) | ![3x5_Matrix_2](Segment_Style_Faces/3x5_Matrix_2/white/8.bmp) | ![9](Segment_Style_Faces/9/white/8.bmp) | ![classic](Segment_Style_Faces/Classic/white/8.bmp) 
 Double_Bubble | Half_Bubble_17 | No_Compromise | Seamless_Regular | Seamless_Round
 ![Double_Bubble](Segment_Style_Faces/Double_Bubble/white/8.bmp) | ![Half_Bubble_17](Segment_Style_Faces/Half_Bubble_17/white/8.bmp) | ![No_Compromise](Segment_Style_Faces/No_Compromise/white/8.bmp) | ![Seamless_Regular](Segment_Style_Faces/Seamless_Regular/white/8.bmp) | ![Seamless_Round](Segment_Style_Faces/Seamless_Round/white/8.bmp) 
