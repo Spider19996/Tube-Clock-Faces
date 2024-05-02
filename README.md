@@ -7,13 +7,27 @@ The folder "Better_Defaults" contains improved versions of the standard watch fa
 Firmware: https://github.com/judge2005/EleksTubeIPS
 
 # Better Defaults
-![Captive Portal](Better_Defaults/dots_yellow/8.bmp) dots_yellow
-![Captive Portal](Better_Defaults/flip_clock/8.bmp) flip_clock
-![Captive Portal](Better_Defaults/lego/8.bmp) lego
-![Captive Portal](Better_Defaults/original/8.bmp) original
-![Captive Portal](Better_Defaults/ribbon_blue/8.bmp) ribbon_blue
-![Captive Portal](Better_Defaults/rounded_pink/8.bmp) rounded_pink
-![Captive Portal](Better_Defaults/seven_segment_red/8.bmp) seven_segment_red
+![Captive Portal](Better_Defaults/dots_yellow/8.bmp)
+
+dots_yellow
+![Captive Portal](Better_Defaults/flip_clock/8.bmp)
+
+flip_clock
+![Captive Portal](Better_Defaults/lego/8.bmp)
+
+lego
+![Captive Portal](Better_Defaults/original/8.bmp)
+
+original
+![Captive Portal](Better_Defaults/ribbon_blue/8.bmp)
+
+ribbon_blue
+![Captive Portal](Better_Defaults/rounded_pink/8.bmp)
+
+rounded_pink
+![Captive Portal](Better_Defaults/seven_segment_red/8.bmp)
+
+seven_segment_red
 
 
 
