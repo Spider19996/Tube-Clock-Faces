@@ -14,7 +14,7 @@ dots_yellow | flip_clock | lego | original
 ribbon_blue | rounded_pink | seven_segment_red |
 ![ribbon_blue](Better_Defaults/ribbon_blue/8.bmp) | ![rounded_pink](Better_Defaults/rounded_pink/crop/8.bmp) | ![Captive Portal](Better_Defaults/seven_segment_red/crop/8.bmp) |
 
-# Segmented_Style_Faces (WIP)
+# Segmented Style Faces (WIP)
 
 14 | 3x5_Matrix_1 | 3x5_Matrix_2 | 9 | Classic
 -------- | -------- | -------- | -------- | --------
