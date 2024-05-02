@@ -24,3 +24,5 @@ Fonts are from https://fonts.google.com/
 Ideas from http://www.michieldb.nl/other/segments/
 
 Big thanks!
+
+![Captive Portal](Better_Defaults/lego/pm.bmp)
