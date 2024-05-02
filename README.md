@@ -5,7 +5,7 @@ Files "ready to use" for the firmware of judge2005 can be found in the respectiv
 Firmware: https://github.com/judge2005/EleksTubeIPS
 All Fonts are from https://fonts.google.com/
 
-# Better Defaults
+## Better Defaults
 Improved versions of the default watch faces which are supplied with the judge2005 firmware. In most cases am/pm/colon/space images have been added and the watch face has been cleaned up. The clock faces have also been added to the firmware and will be included as default in the next release. Currently, these still have to be replaced manually.
 
 dots_yellow | flip_clock [(Bebas Neue)](https://fonts.google.com/specimen/Bebas+Neue) | lego | original
@@ -14,7 +14,7 @@ dots_yellow | flip_clock [(Bebas Neue)](https://fonts.google.com/specimen/Bebas+
 ribbon_blue | rounded_pink | seven_segment_red |
 ![ribbon_blue](Better_Defaults/ribbon_blue/8.bmp) | ![rounded_pink](Better_Defaults/rounded_pink/crop/8.bmp) | ![Captive Portal](Better_Defaults/seven_segment_red/crop/8.bmp) |
 
-# Segmented Style Faces (WIP)
+## Segmented Style Faces (WIP)
 Ideas from [michieldb.nl](http://www.michieldb.nl/other/segments/) - Big thanks!
 
 Some watch faces are also available in other colors.
@@ -30,13 +30,13 @@ Verticals_Priority_Asym | Verticals_Priority_Sym | X_13 | X_Light_15
 ![Verticals_Priority_Asym](Segment_Style_Faces/Verticals_Priority_Asym/white/8.bmp) | ![Verticals_Priority_Sym](Segment_Style_Faces/Verticals_Priority_Sym/white/8.bmp) | ![X_13](Segment_Style_Faces/X_13/white/8.bmp) | ![X_Light_15](Segment_Style_Faces/X_Light_15/white/8.bmp) | 
 
 
-# Selfmade Faces
+## Selfmade Faces
 
 Ice [(Code Mono)](https://fonts.google.com/specimen/Kode+Mono) |
 -------- |
 ![Ice](Selfmade_Faces/Ice/8.bmp) |
 
-# Simple Font Faces
+## Simple Font Faces
 [Quantico](https://fonts.google.com/specimen/Quantico) | [Texturina](https://fonts.google.com/specimen/Texturina) | [Warnes](https://fonts.google.com/specimen/Warnes)
 -------- | -------- | --------
 ![Quantico](Simple_Font_Faces/Quantico/Quantico_white/crop/8.bmp) | ![Texturina](Simple_Font_Faces/Texturina/Texturina_white/crop/8.bmp) | ![Warnes](Simple_Font_Faces/Warnes/Warnes_white/crop/8.bmp)
