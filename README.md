@@ -25,7 +25,7 @@ Ice |
 # Simple_Font_Faces
 Quantico | Texturina | Warnes
 -------- | -------- | --------
-![Quantico](Simple_Font_Faces/Quantico/Quantico_white/8.bmp) | ![Texturina](Simple_Font_Faces/Texturina/8.bmp) | ![Warnes](Simple_Font_Faces/Warnes/8.bmp)
+![Quantico](Simple_Font_Faces/Quantico/Quantico_white/8.bmp) | ![Texturina](Simple_Font_Faces/Texturina/Texturina_white/8.bmp) | ![Warnes](Simple_Font_Faces/Warnes/Warnes_white/8.bmp)
 
 
 
