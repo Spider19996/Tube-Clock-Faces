@@ -8,7 +8,7 @@ All Fonts are from https://fonts.google.com/
 # Better Defaults
 Improved versions of the default watch faces which are supplied with the judge2005 firmware. In most cases am/pm/colon/space images have been added and the watch face has been cleaned up. The clock faces have also been added to the firmware and will be included as default in the next release. Currently, these still have to be replaced manually.
 
-dots_yellow | flip_clock ((Bebas Neue))[https://fonts.google.com/specimen/Bebas+Neue] | lego | original
+dots_yellow | flip_clock / (Bebas Neue)[https://fonts.google.com/specimen/Bebas+Neue] | lego | original
 -------- | -------- | -------- | --------
 ![dots_yellow](Better_Defaults/dots_yellow/crop/8.bmp) | ![flip_clock](Better_Defaults/flip_clock/8.bmp) | ![lego](Better_Defaults/lego/8.bmp) | ![original](Better_Defaults/original/8.bmp) |
 ribbon_blue | rounded_pink | seven_segment_red |
@@ -31,7 +31,7 @@ Verticals_Priority_Asym | Verticals_Priority_Sym | X_13 | X_Light_15
 
 # Selfmade Faces
 
-Ice ((Code Mono))[https://fonts.google.com/specimen/Kode+Mono] |
+Ice / (Code Mono)[https://fonts.google.com/specimen/Kode+Mono] |
 -------- |
 ![Ice](Selfmade_Faces/Ice/8.bmp) |
 
